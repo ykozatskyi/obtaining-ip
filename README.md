@@ -1,2 +1,2 @@
 # obtaining-ip
-Obtaining an IPv4 address from a given string
+Application doing the split of given valid IPv4 Address to obtain separated bytes. 
