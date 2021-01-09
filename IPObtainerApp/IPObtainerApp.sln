@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPObtainerApp", "IPObtainerApp\IPObtainerApp.csproj", "{5B78AF0E-CDAF-4C81-97BC-99B653FD152C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPObtainerApp-Tests", "IPObtainerApp-Tests\IPObtainerApp-Tests.csproj", "{1F01E1A2-F687-4CAD-A1D5-E23641776153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B78AF0E-CDAF-4C81-97BC-99B653FD152C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B78AF0E-CDAF-4C81-97BC-99B653FD152C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B78AF0E-CDAF-4C81-97BC-99B653FD152C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B78AF0E-CDAF-4C81-97BC-99B653FD152C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F01E1A2-F687-4CAD-A1D5-E23641776153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F01E1A2-F687-4CAD-A1D5-E23641776153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F01E1A2-F687-4CAD-A1D5-E23641776153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F01E1A2-F687-4CAD-A1D5-E23641776153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B597412-8B79-4BF9-8E51-FC89A3B86C67}
+	EndGlobalSection
+EndGlobal
